@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(197, 56, 56);
+    font-family: poppins;
+    margin: 20px;
+}
+#Folder{
+    background: white;
+    height: 50vh;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+h3{
+    color: rgb(139, 52, 52);
+    font-size: 20px;
+    margin: 30px 0 50px 0;
+
+}
+#root{
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+button{
+    background:rgb(209, 45, 45);
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+}
